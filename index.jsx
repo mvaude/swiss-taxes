@@ -247,7 +247,7 @@ function NumInput({ value, onChange, placeholder, suffix }) {
   );
 }
 
-export default function App() {
+function App() {
   const [step, setStep] = useState(0);
 
   // Situation
