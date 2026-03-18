@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+const { useState, useMemo } = React;
 
 // ═══════════════════════════════════════════════════════════════════
 // BARÈME ICC GENÈVE 2025 — Source officielle: getax.ch/guide/declaration2025
